@@ -7,7 +7,7 @@ fun main() {
 
     println(car.name)
     println(car.price)
-    
+
 }
 
 fun isDirectoryPath(path: String): Boolean {
